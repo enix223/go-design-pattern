@@ -19,5 +19,5 @@
 
 ## Acknowlege
 
-* UML image from book [Wikipedia factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern)
+* UML image reference from [Wikipedia factory method pattern](https://en.wikipedia.org/wiki/Factory_method_pattern)
 * Participants reference from [Design patterns GoF]

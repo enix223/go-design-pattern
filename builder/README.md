@@ -21,5 +21,5 @@
 
 ## Acknowlege
 
-* UML image from book [Wikipedia builder pattern](https://en.wikipedia.org/wiki/Builder_pattern)
+* UML image reference from [Wikipedia builder pattern](https://en.wikipedia.org/wiki/Builder_pattern)
 * Participants reference from [Design patterns GoF]

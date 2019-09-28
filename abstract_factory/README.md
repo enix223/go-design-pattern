@@ -20,5 +20,5 @@
 
 ## Acknowlege
 
-* UML image from book [Wikipedia abstract factory pattern](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* UML image reference from [Wikipedia abstract factory pattern](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
 * Participants reference from [Design patterns GoF]

@@ -15,5 +15,5 @@
 
 ## Acknowlege
 
-* UML image from book [Wikipedia prototype pattern](https://en.wikipedia.org/wiki/Prototype_pattern)
+* UML image reference from [Wikipedia prototype pattern](https://en.wikipedia.org/wiki/Prototype_pattern)
 * Participants reference from [Design patterns GoF]
