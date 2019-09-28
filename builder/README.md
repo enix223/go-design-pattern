@@ -1,5 +1,9 @@
 # Builder pattern
 
+## UML
+
+![builder](../media/builder.jpg)
+
 ## Participants
 
 * Builder
@@ -13,3 +17,9 @@
 * Product
     - represents the complex object under construction. ConcreteBuilder builds the product's internal representation and defines the process by which it's assembled.
     - includes classes that define the constituent parts, including interfaces for assembling the parts into the final result.
+
+
+## Acknowlege
+
+* UML image from book [Wikipedia builder pattern](https://en.wikipedia.org/wiki/Builder_pattern)
+* Participants reference from [Design patterns GoF]

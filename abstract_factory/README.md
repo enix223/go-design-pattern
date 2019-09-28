@@ -1,5 +1,9 @@
 # Abstract factory pattern
 
+## UML
+
+![abstract factory](../media/abstract_factory.jpg)
+
 ## Participants
 
 * AbstractFactory
@@ -13,3 +17,8 @@
     - implements the AbstractProduct interface. 
 * Client
     - uses only interfaces declared by AbstractFactory and AbstractProduct classes.
+
+## Acknowlege
+
+* UML image from book [Wikipedia abstract factory pattern](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* Participants reference from [Design patterns GoF]

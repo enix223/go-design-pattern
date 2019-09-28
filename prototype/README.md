@@ -1,5 +1,9 @@
 # Prototype pattern
 
+## UML
+
+![prototype](../media/prototype.jpg)
+
 ## Participants
 
 * Prototype
@@ -8,3 +12,8 @@
     - implements an operation for cloning itself.
 * Client
     - creates a new object by asking a prototype to clone itself.
+
+## Acknowlege
+
+* UML image from book [Wikipedia prototype pattern](https://en.wikipedia.org/wiki/Prototype_pattern)
+* Participants reference from [Design patterns GoF]
