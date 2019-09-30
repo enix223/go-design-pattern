@@ -1,4 +1,4 @@
-PATTERNS := factory abstract_factory builder singleton prototype
+PATTERNS := factory abstract_factory builder singleton prototype adapter
 pattern = $(word 1, $@)
 
 

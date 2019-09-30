@@ -10,6 +10,7 @@ import (
 	"github.com/enix223/go-design-pattern/factory"
 	"github.com/enix223/go-design-pattern/prototype"
 	"github.com/enix223/go-design-pattern/singleton"
+	"github.com/enix223/go-design-pattern/adapter"
 )
 
 var pattern = flag.String("pattern", "", `design pattern to run, support folowing patterns:
@@ -18,6 +19,7 @@ var pattern = flag.String("pattern", "", `design pattern to run, support folowin
 	builder                  Builder pattern
 	singleton                Singleton pattern
 	prototype                Prototype pattern
+	adapter                	 Adapter pattern
 `)
 
 func main() {
@@ -35,6 +37,8 @@ func main() {
 		e = &singleton.Example{}
 	case "prototype":
 		e = &prototype.Example{}
+	case "adapter":
+		e = &adapter.Example{}
 	default:
 		fmt.Println("no pattern found")
 		return
